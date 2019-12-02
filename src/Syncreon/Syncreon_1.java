@@ -13,7 +13,11 @@ public class Syncreon_1 {
 
 	}
 
-	
+	public void testGitMethod(){
+		
+		System.Out.Println("Testing Git Checkout")
+			
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
